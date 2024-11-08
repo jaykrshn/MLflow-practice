@@ -1,0 +1,5 @@
+1. mlflow server --backend-store-uri=sqlite:///mlflow.db --default-artifact-root=mlflow-artifacts
+
+2. set MLFLOW_TRACKING_URI=http://127.0.0.1:5000
+
+3. mlflow run . --entry-point=LogisticRegression --experiment-name="Classifier" --run-name="Runer6"

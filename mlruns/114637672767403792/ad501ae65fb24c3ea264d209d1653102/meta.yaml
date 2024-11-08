@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jayakrishnan/Documents/Projects/MLflow-practice/mlruns/114637672767403792/ad501ae65fb24c3ea264d209d1653102/artifacts
+end_time: 1730979869414
+entry_point_name: ''
+experiment_id: '114637672767403792'
+lifecycle_stage: active
+run_id: ad501ae65fb24c3ea264d209d1653102
+run_name: Runer6
+run_uuid: ad501ae65fb24c3ea264d209d1653102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730979868367
+status: 4
+tags: []
+user_id: jayakrishnan

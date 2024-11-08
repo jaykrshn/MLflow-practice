@@ -1,0 +1,19 @@
+# #name: my_python_env  # Optional environment name
+
+# dependencies:
+#   - python=3.9.19
+#   - pip
+#   - pip:
+#       - -r requirements.txt
+#       - setuptools==58.1.0
+#       - wheel
+
+
+
+python: '3.9.19'
+build_dependencies:
+  - pip==24.3.1
+  - setuptools==58.1.0
+  - wheel
+dependencies:
+  - -r requirements.txt

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jayakrishnan/Documents/Projects/MLflow-practice/mlruns/504859938168431619/9414a13cb4a3447d980fff6e05c86f96/artifacts
+end_time: 1730981509876
+entry_point_name: ''
+experiment_id: '504859938168431619'
+lifecycle_stage: active
+run_id: 9414a13cb4a3447d980fff6e05c86f96
+run_name: auspicious-panda-879
+run_uuid: 9414a13cb4a3447d980fff6e05c86f96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730981508843
+status: 4
+tags: []
+user_id: jayakrishnan

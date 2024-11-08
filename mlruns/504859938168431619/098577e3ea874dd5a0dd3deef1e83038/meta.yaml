@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jayakrishnan/Documents/Projects/MLflow-practice/mlruns/504859938168431619/098577e3ea874dd5a0dd3deef1e83038/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '504859938168431619'
+lifecycle_stage: active
+run_id: 098577e3ea874dd5a0dd3deef1e83038
+run_name: fearless-lynx-237
+run_uuid: 098577e3ea874dd5a0dd3deef1e83038
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730978709790
+status: 1
+tags: []
+user_id: jayakrishnan
